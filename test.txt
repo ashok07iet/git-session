@@ -6,7 +6,7 @@
       name: 'Motorola XOOM™ with Wi-Fi',
       snippet: 'The Next, Next Generation tablet.'
     }, {
-      name: 'MOTOROLA XOOM™',
+      name: 'MOTOROLA XOOM1™',
       snippet: 'The Next, Next Generation tablet.'
     }
   ];
